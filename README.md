@@ -1,15 +1,10 @@
 # Getting Started with Create React App with GraphQL Visual Editor
 
-## Available Scripts
+Download the code from GIT repository. Navigate to the project root directory and run below commands.
 
-Download the git from GIT repository
-
-
+### `npm install`
+Dwnloads the dependency packagesto local.
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
